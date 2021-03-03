@@ -1,8 +1,8 @@
-### Movie Search React App
+# Movie Search React App
 
 ## This app utilises Hooks, fetch, async await and css.
 
-# Note when hovering over a movie the overview pops up.
+### Note when hovering over a movie the overview pops up.
 
 ![View](src/images/View.jpg)
 
