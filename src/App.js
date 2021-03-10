@@ -1,7 +1,7 @@
 import Movie from "./components/Movie";
 import { useState, useEffect } from 'react';
 
-const FEATURED_API = "https://api.themoviedb.org/3/discover/movie/?sort_by=popularity.desc&api_key=8df64e81e90a553c8860edc74577d392&query="
+const FEATURED_API = "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=8df64e81e90a553c8860edc74577d392&query="
 
 
 const SEARCH_API = "https://api.themoviedb.org/3/search/movie?api_key=8df64e81e90a553c8860edc74577d392&query=";
